@@ -1,6 +1,3 @@
-# Isabella Castillo, NetID: iac240000
-# Mariam Hamza, NetID: mxh230045
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
